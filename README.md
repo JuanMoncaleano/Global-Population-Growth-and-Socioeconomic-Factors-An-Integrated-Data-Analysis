@@ -7,12 +7,19 @@ This repository explores the influence of socioeconomic factors on population gr
 The following Python modules are required for this project:
 
 pandas
+
 requests
+
 json
+
 matplotlib.pyplot
+
 math
+
 scipy.stats
+
 numpy
+
 plotly.express
  
 A file called api_keys.py is required with a variable called geoapify_key that is assigned as your key from GeoApify.com. This file needs to be in the main repo as well as a copy inside the 'Cleaned_Datasets' folder.
