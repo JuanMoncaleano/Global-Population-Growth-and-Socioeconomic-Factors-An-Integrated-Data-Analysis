@@ -38,11 +38,7 @@ These visualizations incorporate hypothesis testing calculations such as the cor
 
 Below you will find the links to the data sources used in this project:
 
-The main reference data for countries can be found at Stefan Gabos's GitHub repository: [World Countries Data](https://github.com/stefangabos/world_countries/blob/master/data/countries/_combined/countries.csv)
-
-For choropleth maps creation, Plotly's Python Library was used: [Choropleth Maps](https://plotly.com/python/choropleth-maps/)
-
-The methodology to calculate growth rate was derived from this Indeed's guide: [How to Calculate Growth Rate](https://ca.indeed.com/career-advice/career-development/how-to-calculate-growth-rate)
+The main reference data for countries' iso codes can be found at Stefan Gabos's GitHub repository: [World Countries Data](https://github.com/stefangabos/world_countries/blob/master/data/countries/_combined/countries.csv)
 
 The base data set for world population was taken from Kaggle: [World Population Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
 
@@ -52,8 +48,11 @@ The poverty-related data was sourced from OWID's GitHub repository: [Poverty Dat
 
 Safety-related data was taken from Vision of Humanity's Global Peace Index Maps: [Vision of Humanity Maps](https://www.visionofhumanity.org/maps/#/)
 
-Built-in colorscales from Plotly's Python Library were used for visualization: [Built-in Colorscales](https://plotly.com/python/builtin-colorscales/)https://plotly.com/python/builtin-colorscales/
 
 ## Citations
 
-HERE
+For choropleth maps creation, Plotly's Python Library was used: [Choropleth Maps](https://plotly.com/python/choropleth-maps/)
+
+The methodology to calculate growth rate was derived from this Indeed's guide: [How to Calculate Growth Rate](https://ca.indeed.com/career-advice/career-development/how-to-calculate-growth-rate)
+
+Built-in colorscales from Plotly's Python Library were used for visualization: [Built-in Colorscales](https://plotly.com/python/builtin-colorscales/)https://plotly.com/python/builtin-colorscales/
