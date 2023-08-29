@@ -1,4 +1,4 @@
-# Project 1
+# Global Population Growth and Socioeconomic Factors: An Integrated Data Analysis
 
 This repository explores the influence of socioeconomic factors on population growth at a global scale. It includes datasets related to population growth, safety, poverty, and education. The analysis involves data cleaning, integration, and visualization to gain insights into the relationship between these factors and population growth.
 
